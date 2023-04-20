@@ -5,10 +5,6 @@ Grishma Bhattarai
 
 ----------------------
 
-**Presentation Link:** https://youtu.be/kgx80wN-_js
-
-----------------------
-
 
 **Background:** Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material. Such sentiment analysis from text sources like reviews, tweets etc. can give us important and interesting insights about what people are talking about, the sentiments of people, their opinions towards a particular topic/brand and the general trends in society. 
 
